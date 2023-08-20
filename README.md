@@ -5,5 +5,5 @@ See [lamehost/aggregate-prefixes](https://github.com/lamehost/aggregate-prefixes
 
 `brew install lamehost/aggregate-prefixes/aggregate-prefixes`
 
-Or `brew tap lamehost/aggregate-prefixes` and then `brew install aggregate-prefixe`.
+Or `brew tap lamehost/aggregate-prefixes` and then `brew install aggregate-prefixes`.
 
