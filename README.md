@@ -1,11 +1,9 @@
-# Lamehost Aggregate-prefixes
+# Homebrew tap for lamehost/aggregate-prefixes
+See [lamehost/aggregate-prefixes](https://github.com/lamehost/aggregate-prefixes/) for more details
 
 ## How do I install these formulae?
 
-`brew install lamehost/aggregate-prefixes/<formula>`
+`brew install lamehost/aggregate-prefixes/aggregate-prefixes`
 
-Or `brew tap lamehost/aggregate-prefixes` and then `brew install <formula>`.
+Or `brew tap lamehost/aggregate-prefixes` and then `brew install aggregate-prefixe`.
 
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
